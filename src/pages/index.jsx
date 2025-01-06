@@ -30,6 +30,7 @@ const index=()=> {
 
   return (
     <div className="flex justify-center min-h-screen items-center">
+      <div>hello</div>
       <form>
         <div className="grid w-full items-center gap-4">
           <div>
