@@ -29,6 +29,8 @@ export default function App({ Component, pageProps }) {
 }
 ```
 #3. BUAT FILE reduxSlicer.jsx
+
+src/pages/redux/reduxSlicer.jsx
 ```bash
 import { createSlice } from "@reduxjs/toolkit";
 const reduxSlicer = createSlice({
